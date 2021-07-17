@@ -1,0 +1,6 @@
+user name: new-user
+password: NyfVs0A5ReE7VJRV
+
+
+mongodb+srv://new-user:<password>@cluster0.2zo0v.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
